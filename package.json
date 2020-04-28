@@ -1,0 +1,28 @@
+{
+  "name": "usestore-concurrent-test",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@jitcoder/usestore": "1.0.20",
+    "react": "0.0.0-experimental-e5d06e34b",
+    "react-dom": "0.0.0-experimental-e5d06e34b",
+    "react-scripts": "3.0.1"
+  },
+  "devDependencies": {
+    "typescript": "3.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
