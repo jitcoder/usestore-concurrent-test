@@ -6,7 +6,7 @@
   "main": "src/index.js",
   "dependencies": {
     "@jitcoder/usestore": "1.0.20",
-    "react": "0.0.0-experimental-e5d06e34b",
+    "react": "0.14.0",
     "react-dom": "0.0.0-experimental-e5d06e34b",
     "react-scripts": "3.0.1"
   },
